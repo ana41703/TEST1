@@ -60,6 +60,15 @@ namespace TEST1
         protected global::System.Web.UI.WebControls.Label label4;
 
         /// <summary>
+        /// textMei コントロール。
+        /// </summary>
+        /// <remarks>
+        /// 自動生成されたフィールド。
+        /// 変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox textMei;
+
+        /// <summary>
         /// label5 コントロール。
         /// </summary>
         /// <remarks>
@@ -67,6 +76,15 @@ namespace TEST1
         /// 変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label label5;
+
+        /// <summary>
+        /// DropDownBusyo コントロール。
+        /// </summary>
+        /// <remarks>
+        /// 自動生成されたフィールド。
+        /// 変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList DropDownBusyo;
 
         /// <summary>
         /// GridView3 コントロール。
