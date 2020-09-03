@@ -26,5 +26,11 @@ namespace TEST1.Controllers
 
             return View();
         }
+        public ActionResult APP_2()
+        {
+            return View();
+        }
+
+
     }
 }
