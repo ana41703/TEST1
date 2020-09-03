@@ -26,10 +26,19 @@ namespace TEST1.Controllers
 
             return View();
         }
+        //public ActionResult APP_2()
+        //{
+        //    return View();
+        //}
         public ActionResult APP_2()
         {
-            return View();
+            Models.APP__2 APPS__2 = new Models.APP__2()
+            {
+
+            };
+            return View(APPS__2);
         }
+
         public ActionResult UP_2()
         {
             return View();
