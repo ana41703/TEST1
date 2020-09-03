@@ -12,7 +12,6 @@
 
         <form id="form1" runat="server">
             <a href="https://localhost:44329/WebForm2.aspx">画面移動</a>
-            <asp:Button ID="Button2" runat="server" Text="画面移動"/> 
 
             <br />
             <asp:Label runat="server" ID="label3" Text="ユーザーID"></asp:Label>

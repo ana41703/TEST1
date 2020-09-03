@@ -12,9 +12,6 @@
         <div>
 
                 <a href="https://localhost:44329/WebForm1.aspx">戻る</a>
-                <asp:Button ID="Button2" runat="server" Text="戻る"  OnClick="Button2_Click""/>
-                <%--            onClick="location.href='https://localhost:44329/WebForm1.aspx'"--%>
-
                 <br />
                 <asp:Label runat="server" ID="label3" Text="ユーザーID"></asp:Label>
                 <asp:TextBox ID="TextBox3" runat="server" Text="" OnTextChanged="TextBox3_TextChanged" />
