@@ -30,6 +30,21 @@ namespace TEST1.Controllers
         {
             return View();
         }
+        public ActionResult UP_2()
+        {
+            return View();
+        }
+        public ActionResult 画面D_1()
+        {
+            return View();
+        }
+
+        public ActionResult 画面E_1()
+        {
+            return View();
+        }
+
+
 
 
     }
